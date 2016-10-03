@@ -1,0 +1,1 @@
+<?php // I would prefer not to
