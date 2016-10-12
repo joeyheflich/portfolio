@@ -2,13 +2,13 @@
 <html class="no-js" lang="en">
 <?php 
 	$place = dirname(__FILE__);
-	require_once('./url.inc');
+	require_once('../url.inc');
 	$page_url = FILE_URL;
-	$page_title = 'Coming Soon - Joey Heflich';
+	$page_title = 'Process - Joey Heflich';
 	$page_des = 'New portfolio will be up soon!';
 	$og_img = FILE_URL . 'images/facebook.jpg';
 	$twitter_img = FILE_URL . 'images/twitter.jpg';
-	$header_text = 'Makes Websites, Says Hello';
+	$header_text = 'Makes Websites, Schedules';
 ?>
 	<head>
 		<meta charset="utf-8">
@@ -23,10 +23,10 @@
 		<?php require_once ( FILE_URL . 'includes/stylesandscripts.php'); ?>
 	</head>
 <body class="drawer drawer--right">
-<div id="page" class="site relative home">
+<div id="page" class="site relative process">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 	<?php require_once ( FILE_URL . 'includes/nav.php'); ?>
 	<div id="content" class="site-content">
-		<?php require_once ( FILE_URL . 'content/index_content.php'); ?>
+		<?php require_once ( FILE_URL . 'content/process.php'); ?>
 	</div>
 <?php require_once( FILE_URL . 'includes/footer.php'); 
