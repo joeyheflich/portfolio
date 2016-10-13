@@ -6,11 +6,13 @@
 	<div class="row row--hello padding-top-l max-width center clear">
 		<div class="hello-column hello-column--1">
 			<p>I help small companies and organizations build websites that are usable, useful, responsive and easy to update. From the feedback I get from you and your team to the information we learn about your users, it's all about us making something that satisfies your wants and your audience's needs.</p>
-			<p>I can help you set goals, plan content updates and improve how you interact with your users, all the way from our first meeting to the project's completion. And no matter how complicated things get, it will always be important to me that your users can find what they need quickly and easily, and that your new intern can post a photo gallery and check on your site's stats on the way to the afternoon meeting.</p>
+			<p>I can help you set goals, plan content updates and improve how you interact with your users, all the way from our first meeting to the project's completion. And no matter how complicated things get, it will always be important to me that your users can find what they need quickly and easily, and that your new intern can post a photo gallery and check on your site's stats while on the way to the afternoon meeting.</p>
 		</div>
 		<div class="hello-column hello-column--2">
 			<h3 class="text-medium">How I Do What I Do</h3>
 			<p>HTML, CSS, Javascript, jQuery, AJAX, PHP, MySQL, Sass, Bower, Gulp, Wordpress, Bootstrap, Foundation, Photoshop</p>
+			<h3 class="text-medium">What I'm Learning</h3>
+			<p>React, ES6, Laravel</p>
 			<h3 class="text-medium">Want to Work Together?</h3>
 			<p>Send me an <a href="mailto:joey.heflich@gmail.com" class="special-link">e-mail</a>.</p>
 		</div>
@@ -49,7 +51,7 @@
 		</div>
 		<div class="featured-column featured-column--2">
 			<h2 class="featured-title heading-medium">King Bone Press</h2>
-			<p class="featured-copy">Over the years, I've worked with King Bone Press to create websites that screamed indie comics out onto the Internet. Their most recent update was the biggest yet - a complete content and site overhaul that'll help you get their newest books under your art-loving fingers.</p>
+			<p class="featured-copy">Over the years, I've worked with King Bone Press to create websites that screamed indie comics out onto the Internet. Their most recent update was the biggest yet - a complete content and site overhaul that'll help the company's fans get the newest books under their art-loving fingers.</p>
 			<a href="http://kingbonepress.com" class="button featured-button margin-right-l">View Website</a>
 			<a href="<?php echo SITE_URL; ?>projects/#kbp" class="button featured-button">Learn More</a>
 		</div>
@@ -62,7 +64,7 @@
 		</div>
 		<div class="featured-column featured-column--2">
 			<h2 class="featured-title heading-medium">Robert Hafferman</h2>
-			<p class="featured-copy">Rob wanted a website that was capable of showcasing his art, without overshadowing it, but insisted that it also couldn't look like the same Bootstrap template everyone else used. In response, I designed and developed a site that was colorful and unique like him, while also being minimalist like me.</p>
+			<p class="featured-copy">Rob wanted a website that was capable of showcasing his art, without overshadowing it, but also insisted that it couldn't look like the same Bootstrap template everyone else used. In response, I designed and developed a site that was colorful and unique like him, while also being minimalist like me.</p>
 			<a href="http://roberthafferman.com" class="button featured-button margin-right-l">View Website</a>
 			<a href="<?php echo SITE_URL; ?>projects/#rob" class="button featured-button">Learn More</a>
 		</div>
@@ -71,8 +73,8 @@
 <section class="little-section dark bg-tunnel padding-xxl text-medium relative">
 	<div class="row row--little margins-xxl max-content-width center">
 		<h2 class="little-title text-center heading-small">A Little About Me</h2>
-		<p>I'm a lanky nerd that's been creating content for the web ever since I made my first Geocities site. After a few post-college years of writing articles and doing the content strategy thing, I went back to doing web design full-time, because I wanted to help others create sites, experiences and communities that improved things for people. On a hourly basis, it might all look like code, but I get to, in some small way, provide meaning and a sense of belonging through these projects. And that gives me a reason to plop down in front of my laptop every morning.</p>
-		<p>But when I'm away from work, I'm either reading, biking, podcasting, gaming or sipping an overpriced beer at a concert.</p>
+		<p>I'm a (lanky) nerd that's been making stuff on the web ever since I coded my first Geocities site. After a few post-college years of writing articles and doing the content creation thing, I went to doing web development full-time, because I wanted to help others create sites, experiences and communities that improved things for users like you. On a hourly basis, it might all look like code to anyone else, but to me, it's my way of providing help and maybe a sense of belonging for somebody, somewhere. And that's a great reason for me to plop down in front of my laptop every morning.</p>
+		<p>But when I'm away from work, I'm either <a href="https://www.goodreads.com/user/show/4617315-joey-heflich" class="special-link">reading</a>, <a href="https://www.instagram.com/p/2zy5wuS41Q/" class="special-link">biking</a>, <a href="http://internetboyfriends.com" class="special-link">podcasting</a>, <a href="http://joeyheflich.com/extralife/" class="special-link">gaming</a> or <a href="https://www.instagram.com/p/vh2u7jy42g/" class="special-link">sipping an overpriced beer at a concert</a>.</p>
 	</div>
 </section>
 </div><!-- #page-content -->

@@ -14,7 +14,7 @@
 				<li class="main-menu-support-item text-small margin-bottom-m">Some Things I've Worked On</li>
 				<li class="main-menu-item"><a href="<?php echo SITE_URL; ?>process/" class="main-menu-link">Process</a></li>
 				<li class="main-menu-support-item text-small margin-bottom-m">How I Do What I Do</li>
-				<li class="main-menu-item"><a href="<?php echo SITE_URL; ?>about/" class="main-menu-link">About</a></li>
+				<li class="main-menu-item"><a href="<?php echo SITE_URL; ?>about/" id="last-menu-link" class="main-menu-link">About</a></li>
 				<li class="main-menu-support-item text-small margin-bottom-m">Who I Am (And Why)</li>
 			</ul>
 		</nav>

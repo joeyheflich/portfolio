@@ -5,9 +5,9 @@
 	require_once('../url.inc');
 	$page_url = FILE_URL;
 	$page_title = 'Process - Joey Heflich';
-	$page_des = 'New portfolio will be up soon!';
-	$og_img = FILE_URL . 'images/facebook.jpg';
-	$twitter_img = FILE_URL . 'images/twitter.jpg';
+	$page_des = 'My six step process to design and developing sites - Planning, Research, Design and Prototyping, Coding, Testing and Teaching, and Launch.';
+	$og_img = FILE_URL . 'images/bg_mit.jpg';
+	$twitter_img = FILE_URL . 'images/bg_mit.jpg';
 	$header_text = 'Makes Websites, Schedules';
 ?>
 	<head>

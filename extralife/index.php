@@ -2,13 +2,13 @@
 <html class="no-js" lang="en">
 <?php 
 	$place = dirname(__FILE__);
-	echo $place . '<br>';
 	require_once('../url.inc');
 	$page_url = FILE_URL . 'extralife/';
 	$page_title = 'Extra Life 2016 - Joey Heflich';
 	$page_des = 'Want to help some sick kids? Make a donation for Game Day 2016, help spread the word and watch me play video games!';
 	$og_img = FILE_URL . 'images/extra/facebook_big.jpg';
 	$twitter_img = FILE_URL . 'images/extra/twitter.jpg';
+	$header_text = 'Makes Websites, Helps Kids';
 ?>
 <head>
 	<meta charset="utf-8">
@@ -22,10 +22,11 @@
 
 	<?php require_once ( FILE_URL . 'includes/stylesandscripts.php'); ?>
 </head>
-<body>
-<div id="page" class="site">
+<body class="drawer drawer--right">
+<div id="page" class="site relative extra">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-	<div id="content" class="site-content margin-bottom-xxl">
+	<?php require_once ( FILE_URL . 'includes/nav.php'); ?>
+	<div id="content" class="site-content header-buffer">
 		<?php require_once ( FILE_URL . 'content/extra_life.php'); ?>
 	</div>
 <?php require_once( FILE_URL . 'includes/footer.php'); 

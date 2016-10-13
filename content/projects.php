@@ -2,8 +2,8 @@
 <div class="projects-introduction padding-xxl dark bg-projects">
 	<div class="row row--introduction max-intro-width center text-large text-center">
 		<h1 class="intro-title">Selected Projects</h1>
-		<p>Over the past three years, I've completed 25 projects and personally launched 16. Here's a few that stuck with me that I've love to share with you.</p>
-		<p>If you want to know more about my work or would like me to help you with your project, please contact me.</p>
+		<p>Over the past three years, I've completed 25 projects and personally launched 16. Here's a few that stuck with me that I'd love to share with you.</p>
+		<p>If you want to know more about my work or would like me to help you with your project, please <a href="mailto:joey.heflich@gmail.com" class="special-link">contact me.</a></p>
 	</div>
 </div>
 <article id="youth-outlook" class="project project--left project-youth-outlook text-medium has-white-background">
@@ -88,7 +88,7 @@
 		</div>
 		<div class="project-column project-column--2">
 			<h2 class="project-title heading-medium">Asset Building Policy Network</h2>
-			<p class="project-copy">In the summer of 2015, I worked with representatives from CFED and Citi to develop a child theme, based on Divi, to help simplify the site and make it a more responsive, modern experience. We performed a content audit, improved on the Wordpress back-end to make it easier for the team to update and developed a new custom post-type for the site, Stories, to present recent, important work done by ABPN. The redesign took into consideration potential needs of users and the various upgrades requested while sticking with the requirement to keep the site's look and feel similar to the pre-existing design. </p>
+			<p class="project-copy">In the summer of 2015, I worked with representatives from CFED and Citi to develop a child theme, based on Divi, to help simplify the site and make it a more responsive, modern experience. We performed a content audit, improved on the Wordpress back-end (to make it easier for the team to update), and developed a new custom post-type for the site to present recent, important work done by ABPN. The redesign took into consideration the needs of users, based on previous site analytics, and various upgrades while sticking with the requirement to keep the site's look and feel similar to a pre-existing design.</p>
 			<div class="project-tags text-small margin-bottom-m">
 				<span class="tag">Wordpress</span><span class="tag">PHP</span><span class="tag">Javascript</span><span class="tag">jQuery</span><span class="tag">HTML</span><span class="tag">CSS</span>
 			</div>
@@ -118,7 +118,7 @@
 		</div>
 		<div class="project-column project-column--2">
 			<h2 class="project-title heading-medium">Harry Moyer</h2>
-			<p class="project-copy">Harry "Snakes" Moyer asked me to make a simple, minimal Wordpress theme for him to use as his portfolio. Like most artists, Harry had been using tumblr to share his recent work, but he wanted something curated to show off his comic projects to potential collaborators. I worked with him to create a Wordpress theme that was straight to the point - just art, no complications.</p>
+			<p class="project-copy">Harry "Snakes" Moyer asked me to make a simple, minimal website for him to use as his portfolio. Like most artists, Harry had been using tumblr to share his recent work, but he wanted something curated to show off his comic projects to potential collaborators. I worked with him to create a custom Wordpress theme that was straight to the point - just art, no complications.</p>
 			<div class="project-tags text-small margin-bottom-m">
 				<span class="tag">Wordpress</span><span class="tag">PHP</span><span class="tag">Javascript</span><span class="tag">jQuery</span><span class="tag">HTML</span><span class="tag">CSS</span>
 			</div>
@@ -133,7 +133,7 @@
 		</div>
 		<div class="project-column project-column--2">
 			<h2 class="project-title heading-medium">World's Strongest Mailman</h2>
-			<p class="project-copy">The guys at King Bone Press were so pleased with their main site, I got a chance to work with them again a few months later in 2014 on their web comic, World's Strongest Mailman. I came up with a new logo, built a custom Wordpress theme from scratch and converted the existing archive from ComicPress. The goal was to design something that looked great on tablets and phones, so that fans could go through 150+ pages of the comic, anywhere, anytime. The finished responsive theme hit the mark for them, with a clean, modern look that had just enough personality to frame the wacky adventures of Svend the Mailman.</p>
+			<p class="project-copy">The guys at King Bone Press were so pleased with their main site, I got a chance to work with them again a few months later in 2014 on their webcomic, World's Strongest Mailman. I came up with a new logo, built the Wordpress theme from scratch and converted the existing archive from ComicPress. The goal was to design something that looked great on tablets and phones, so that fans could go through 150+ pages of the comic, anywhere, anytime. The finished responsive site hit the mark for them, with a clean, modern look that had just enough personality to frame the wacky adventures of Svend the Mailman.</p>
 			<div class="project-tags text-small margin-bottom-m">
 				<span class="tag">Wordpress</span><span class="tag">PHP</span><span class="tag">Javascript</span><span class="tag">jQuery</span><span class="tag">HTML</span><span class="tag">CSS</span>
 			</div>
@@ -141,5 +141,4 @@
 		</div>
 	</div>
 </article>
-
 </div><!-- #page-content -->

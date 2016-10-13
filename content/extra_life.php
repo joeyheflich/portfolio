@@ -1,8 +1,8 @@
-<header class="extra-header max-content-width text-center">
+<header class="extra-header max-content-width center margin-top-l text-center">
 	<a href="http://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=220251" class="a--no-line a--block"><img src="../images/extra/extra-life-header.png" alt="Extra Life Logo"></a>
 	<h1 class="heading-large margins-m">Extra Life 2016</h1>
 </header>
-<div id="page-content" class="extra-content text-medium has-background max-content-width padding-l padded-l half-curved">
+<div id="page-content" class="extra-content text-medium has-white-background max-content-width center padding-l padded-l half-curved margin-bottom-xxl">
 	<section class="extra-hello">
 		<h2 class="heading-medium margin-bottom-xs">Hello, again!</h2>
 		<p>Last year, with the help of your support and donations, I played video games for 34 hours, raising $618.19 for <a href="http://www.childrens-specialized.org/">Children's Specialized Hospital</a>. And our team, <a href="http://www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=30382">Team #KnifeShoes</a>, raised a total of $3,297 for hospitals in the Children's Miracle Network.</p>

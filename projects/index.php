@@ -6,8 +6,8 @@
 	$page_url = FILE_URL;
 	$page_title = 'Projects - Joey Heflich';
 	$page_des = 'New portfolio will be up soon!';
-	$og_img = FILE_URL . 'images/facebook.jpg';
-	$twitter_img = FILE_URL . 'images/twitter.jpg';
+	$og_img = FILE_URL . 'images/bg_projects.jpg';
+	$twitter_img = FILE_URL . 'images/bg_projects.jpg';
 	$header_text = 'Makes Websites, Does Work';
 ?>
 	<head>

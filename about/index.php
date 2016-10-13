@@ -5,9 +5,9 @@
 	require_once('../url.inc');
 	$page_url = FILE_URL;
 	$page_title = 'About Me - Joey Heflich';
-	$page_des = 'New portfolio will be up soon!';
-	$og_img = FILE_URL . 'images/facebook.jpg';
-	$twitter_img = FILE_URL . 'images/twitter.jpg';
+	$page_des = 'I\'m a web designer/developer with three years professional experience, specializing in projects using Wordpress.';
+	$og_img = FILE_URL . 'images/bg_me.jpg';
+	$twitter_img = FILE_URL . 'images/bg_me.jpg';
 	$header_text = 'Makes Websites, Loves Dogs';
 ?>
 	<head>

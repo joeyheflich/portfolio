@@ -4,10 +4,10 @@
 	$place = dirname(__FILE__);
 	require_once('./url.inc');
 	$page_url = FILE_URL;
-	$page_title = 'Coming Soon - Joey Heflich';
-	$page_des = 'New portfolio will be up soon!';
-	$og_img = FILE_URL . 'images/facebook.jpg';
-	$twitter_img = FILE_URL . 'images/twitter.jpg';
+	$page_title = 'Joey Heflich - A Person Who Makes Websites';
+	$page_des = 'I help small companies and organizations build websites that are usable, useful, responsive and easy to update.';
+	$og_img = FILE_URL . 'images/bg_pixeled.jpg';
+	$twitter_img = FILE_URL . 'images/bg_pixeled.jpg';
 	$header_text = 'Makes Websites, Says Hello';
 ?>
 	<head>
